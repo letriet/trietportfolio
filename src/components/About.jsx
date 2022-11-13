@@ -16,7 +16,7 @@ const About = () => {
           <div className="sm:text-right text-xl font-bold">
             <p className="">
               Currently completing a Bachelor of Computer Science majoring in Data Science and also Diploma
-              in Japanese at Monash University.
+              in Japanese at Monash University. 
             </p>
           </div>
           <div className="sm:text-left">
