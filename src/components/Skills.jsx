@@ -22,7 +22,7 @@ const Skills = () => {
           </p>
         </div>
 
-        <div className="w-full h-screen grid grid-cols-2 gap-4 text-center py-8">
+        <div className="w-full h-full grid grid-cols-2 gap-4 text-center py-8">
           <div class="relative group">
             <img className="w-20 mx-auto" src={Python} alt="Python" />
             <p className="my-4">Python</p>

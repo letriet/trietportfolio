@@ -9,7 +9,7 @@ const Contact = () => {
       className="w-full bg-[#000009] flex justify-center items-center h-screen"
     >
       
-      <form method='POST' action="https://getform.io/f/23bc1d5b-4ee8-4945-96af-f58f62f26050" className="flex flex-col max-w-[550px] w-full h-full py-32">
+      <form method='POST' action="https://getform.io/f/23bc1d5b-4ee8-4945-96af-f58f62f26050" className="flex flex-col max-w-[550px] w-full h-full py-20">
         <div className="pb-2">
           <p className="text-4xl font-bold inline border-b-4 border-[#7290A9] text-gray-300 py-20">
             Contact
