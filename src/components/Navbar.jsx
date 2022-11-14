@@ -210,7 +210,7 @@ export default function NavBar() {
             <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-slate-400 ">
               <a
                 className="flex justify-between items-center w-full text-gray-300"
-                href="/"
+                href="https://drive.google.com/file/d/1hSjuhVSzlzolhBLceHS8TY17JdeZAfLO/view?usp=sharing"
               >
                 Resume <BsFillPersonLinesFill size={30} />
               </a>

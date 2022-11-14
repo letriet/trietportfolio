@@ -18,7 +18,7 @@ const Home = () => {
           Aspiring Full-stack Developer
         </h2>
         <div>
-          <li className="py-3 text-[#7290A9] flex items-center hover:bg-[#215B7A] border-2 rounded-2xl px-6 my-3 border-[#215B7A]">
+          <li className="group py-6 text-[#7290A9] flex items-center">
             <Link to="skills" smooth={true} duration={500}>
               View Skills
             </Link>
