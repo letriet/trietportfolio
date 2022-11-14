@@ -24,7 +24,7 @@ const Skills = () => {
 
         <div className="w-full h-full grid grid-cols-2 gap-4 text-center py-8">
           <div class="relative group">
-            <img className="w-20 mx-auto" src={Python} alt="Python"/>
+            <img className="w-20 mx-auto" src={Python} alt="Python" />
             <p className="my-4">Python</p>
             <div class="opacity-0 group-hover:opacity-100 duration-300 absolute inset-0 z-10 h-full left-0 bottom-0 right-0 flex justify-center items-center text-sm shadow-md shadow-[#15191d] bg-[#000009] text-gray-300 font-semibold">
               Proficient at Python. Learnt Algorithms and Data Structures using
@@ -79,14 +79,14 @@ const Skills = () => {
               for web development.
             </div>
           </div>
-            
+
           <div class="relative group">
             <img className="w-20 mx-auto" src={sql} alt="OracleSQL" />
             <p className="my-4">Oracle SQL</p>
             <div class="opacity-0 group-hover:opacity-100 duration-300 absolute h-full left-0 bottom-0 right-0 z-10 flex justify-center items-center text-sm shadow-md shadow-[#15191d] bg-[#000009] text-gray-200 font-semibold">
-              Beginner level at Oracle SQL. Built Databases and knows the basics
-              of SQL queries but have not implemented into a working
-              infrastructure.
+              Intermediate level at Oracle SQL. Built Databases and knows the
+              basics of SQL queries and scripting but have not gone any further
+              than University assignments.
             </div>
           </div>
         </div>

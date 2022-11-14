@@ -110,7 +110,6 @@
 import { useState } from "react";
 import { Link } from "react-scroll";
 import { FaGithub, FaLinkedin } from "react-icons/fa";
-
 import { BsFillPersonLinesFill } from "react-icons/bs";
 
 export default function NavBar() {
