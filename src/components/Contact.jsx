@@ -6,7 +6,7 @@ const Contact = () => {
   return (
     <div
       name="contact"
-      className="w-full h-screen bg-[#000009] flex justify-center items-center p-8"
+      className="w-full h-screen bg-[#000009] flex justify-center items-center p-4"
     >
       
       <form method='POST' action="https://getform.io/f/23bc1d5b-4ee8-4945-96af-f58f62f26050" className="flex flex-col max-w-[550px] w-full">
@@ -17,7 +17,7 @@ const Contact = () => {
           <p className="py-4 text-gray-300">For Mobile Users, click below or send a form</p>
         </div>
         <div>
-          <div className="w-full h-full grid grid-cols-3 gap-7 items-center pb-8">
+          <div className="w-full h-full grid grid-cols-3 gap-7 items-center pb-6">
             <a
                 className="hover:scale-110 flex justify-center items-center w-full text-gray-300 bg-blue-600"
                 href="https://www.linkedin.com/in/letriet/"
