@@ -9,12 +9,12 @@ const Contact = () => {
       className="w-full bg-[#000009] flex justify-center items-center h-screen"
     >
       
-      <form method='POST' action="https://getform.io/f/23bc1d5b-4ee8-4945-96af-f58f62f26050" className="flex flex-col max-w-[550px] w-full h-full py-20">
+      <form method='POST' action="https://getform.io/f/23bc1d5b-4ee8-4945-96af-f58f62f26050" className="flex flex-col max-w-[550px] w-full h-screen py-20">
         <div className="pb-2">
-          <p className="text-4xl font-bold inline border-b-4 border-[#7290A9] text-gray-300 py-20">
+          <p className="text-4xl font-bold text-gray-300 pt-14 pb-4 ">
             Contact
           </p>
-          <p className="py-4 text-gray-300">For Mobile Users, click below or send a form</p>
+          <p className="pb-4 text-gray-300">For Mobile Users, click below or send a form</p>
         </div>
         <div>
           <div className="w-full h-full grid grid-cols-3 gap-7 items-center pb-6">
