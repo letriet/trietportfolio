@@ -10,7 +10,7 @@ import sql from "../assets/OracleSQLDev.png";
 
 const Skills = () => {
   return (
-    <div name="skills" className="h-screen w-full bg-[#000009] text-gray-300">
+    <div name="skills" className="h-screen w-full bg-[#000009] text-gray-300 py-8">
       {/* Container */}
       <div className="max-w-[750px] mx-auto p-4 flex flex-col justify-center w-full h-screen">
         <div>
