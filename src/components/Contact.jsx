@@ -1,6 +1,6 @@
 import React from "react";
 import { FaGithub, FaLinkedin } from "react-icons/fa";
-import { BsFillPersonLinesFill } from "react-icons/bs";
+
 
 const Contact = () => {
   return (
@@ -14,10 +14,10 @@ const Contact = () => {
           <p className="text-4xl font-bold text-gray-300 pt-14 pb-4 ">
             Contact
           </p>
-          <p className="pb-4 text-gray-300">For Mobile Users, click below or send a form</p>
+          <p className="pb-4 text-gray-300">For mobile users, click below on the icons or send a form</p>
         </div>
         <div>
-          <div className="w-full h-full grid grid-cols-3 gap-7 items-center pb-6">
+          <div className="w-full h-full grid grid-cols-2 gap-7 items-center pb-6">
             <a
                 className="hover:scale-110 flex justify-center items-center w-full text-gray-300 bg-blue-600"
                 href="https://www.linkedin.com/in/letriet/"
@@ -31,12 +31,6 @@ const Contact = () => {
                 GitHub <FaGithub size={30} />
               </a>
 
-              <a
-                className="hover:scale-110 flex justify-center items-center w-full text-gray-300 bg-slate-400"
-                href="https://drive.google.com/file/d/1hSjuhVSzlzolhBLceHS8TY17JdeZAfLO/view?usp=sharing"
-              >
-                Resume <BsFillPersonLinesFill size={30} />
-              </a>
           </div>
         </div>
         <input className="bg-[#7290A9] p-2 placeholder-black" type="text" placeholder='Name' name="name" />

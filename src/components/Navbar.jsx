@@ -110,7 +110,7 @@
 import { useState } from "react";
 import { Link } from "react-scroll";
 import { FaGithub, FaLinkedin } from "react-icons/fa";
-import { BsFillPersonLinesFill } from "react-icons/bs";
+
 
 export default function NavBar() {
   const [navbar, setNavbar] = useState(false);
@@ -207,14 +207,7 @@ export default function NavBar() {
                 GitHub <FaGithub size={30} />
               </a>
             </li>
-            <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-slate-400 ">
-              <a
-                className="flex justify-between items-center w-full text-gray-300"
-                href="https://drive.google.com/file/d/1hSjuhVSzlzolhBLceHS8TY17JdeZAfLO/view?usp=sharing"
-              >
-                Resume <BsFillPersonLinesFill size={30} />
-              </a>
-            </li>
+            
           </ul>
         </div>
       </div>

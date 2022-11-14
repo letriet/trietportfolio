@@ -27,12 +27,12 @@ const About = () => {
             </p>
             <p className="py-2">
               So, this website was just to test myself and to showcase my
-              passion going forward in the Tech industry. Thank you for visiting
+              passion going forward in the Tech Industry. Thank you for visiting
               my web portfolio.
             </p>
             <p>
               My hobbies include playing video games, rock-climbing, listening
-              to music, and photography.
+              to music, and photography. 
             </p>
           </div>
         </div>
