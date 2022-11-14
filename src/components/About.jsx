@@ -21,18 +21,17 @@ const About = () => {
           </div>
           <div className="sm:text-left">
             <p>
-              Welcome to my Web Portfolio. For the longest time as a Computer
-              Science student, majoring in Data Science, I did not learn how to
-              code front-end in Javascript, HTML, CSS.
+              Welcome to the 1st version of my Web Portfolio. 
             </p>
             <p className="py-2">
-              So, this website was just to test myself and to showcase my
-              passion going forward in the Tech Industry. Thank you for visiting
+              The purpose of this website is to test if I could build a website in 4-5 days with no prior knowledge on front-end development.
+              Furthermore, the website showcases my passion going forward in the Tech Industry. Thank you for visiting 
               my web portfolio.
             </p>
             <p>
               My hobbies include playing video games, rock-climbing, listening
-              to music, and photography. 
+              to music, and photography. I would love to hear about you, feel free to connect down in the contacts page 
+              or any suggestions for the page!
             </p>
           </div>
         </div>
